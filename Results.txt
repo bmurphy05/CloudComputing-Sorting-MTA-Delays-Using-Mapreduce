@@ -1,0 +1,92 @@
+﻿Failure of each main category 
+Art     14131
+Comics  4036
+Crafts  5703
+Dance   1235
+Design  14814
+Fashion 14182
+Film & Video    32904
+Food    15969
+Games   16003
+Journalism      3137
+Music   21752
+Photography     6384
+Publishing      23145
+Technology      20616
+Theater 3708
+
+
+Success of each main category 
+Art     11510
+Comics  5842
+Crafts  2115
+Dance   2338
+Design  10550
+Fashion 5593
+Film & Video    23623
+Food    6085
+Games   12518
+Journalism      1012
+Music   24197
+Photography     3305
+Publishing      12300
+Technology      6434
+Theater 6534
+
+
+Ratios - success->failure:
+Art      11510+14131 = 11510/25641 = .448 = 44.8%
+Comics  5842+4036 = 5842/9878 = .591 = 59.1%
+Crafts  2115+5703 = 2115/7818 = .270 = 27.0%
+Dance   2338+1235 = 2338/3573 = .654 = 65.4%
+Design  10550+14814 = 10550/25364 = .415 = 41.5%
+Fashion 5593+14182 = 5593/19775 = .282 = 28.2%
+Film & Video    23623+32904 = 23623/56527 = .417 = 41.7%
+Food    6085+15969 = 6085/22054 = .275 = 27.5%
+Games   12518+16003 = 12518/28521 = .438 = 43.8%
+Journalism      1012+3137 = 1012/4149 = .243 = 24.3%
+Music   24197+21752 = 24197/45949 = .526 = 52.6%
+Photography     3305+6384 = 3305/9689 = .341 = 34.1%
+Publishing      12300+23145 = 12300/35445 = .347 = 34.7%
+Technology      6434+20616 = 6434/27050 = .237 = 23.7%
+Theater 6534+3708 = 6534/10242 = .637 = 63.7%
+
+
+
+
+Total pledging amount for successful kickstarters using main categories 
+Art     9.0197752e7
+Comics  6.9537144e7
+Crafts  1.4851565e7
+Dance   1.2978126e7
+Design  7.3082938e8
+Fashion 1.29868816e8
+Film & Video    3.39716672e8
+Food    1.09773512e8
+Games   7.012416e8
+Journalism      1.2881524e7
+Music   1.82535456e8
+Photography     3.4028864e7
+Publishing      1.25511528e8
+Technology      6.34416e8
+Theater 3.9944636e7
+
+
+Total amount of backers for each successful main category
+
+
+Art     1040022.0
+Comics  1351864.0
+Crafts  199124.0
+Dance   148220.0
+Design  6485969.0
+Fashion 1213688.0
+Film & Video    3603935.0
+Food    1098695.0
+Games   1.019446E7
+Journalism      154134.0
+Music   2472579.0
+Photography     359407.0
+Publishing      1953524.0
+Technology      4617545.0
+Theater 460684.0
